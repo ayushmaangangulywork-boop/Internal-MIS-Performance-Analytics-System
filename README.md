@@ -111,30 +111,28 @@ Typical outputs include:
 ## Project Structure
 
 ```text
-MAWSIM-GOLD/
+Internal-MIS-Performance-Analytics-System/
 │
 ├── main.py
-├── data_reader.py
 ├── analytics.py
 ├── dashboard.py
-├── scorecards.py
-├── reports.py
-├── executive_report.py
-├── weekly_report.py
-├── individual_reports.py
-├── time_intelligence.py
-├── insight_blocks.py
+├── data_reader.py
 ├── excel_export.py
+├── executive_report.py
+├── individual_reports.py
+├── insight_blocks.py
 ├── pdf_styles.py
+├── reports.py
+├── scorecards.py
+├── time_intelligence.py
+├── weekly_report.py
 │
-├── DATA/
-├── OUTPUT/
-├── SCREENSHOTS/
+├── CAD REPORT JULY 2026.xlsx
+├── MIS_CAD_OUTPUT.pdf
+├── Individual_CAD_Aditya_Sengupta_SAMPLE.pdf
 │
 ├── requirements.txt
-├── .gitignore
 └── README.md
-```
 
 ---
 
