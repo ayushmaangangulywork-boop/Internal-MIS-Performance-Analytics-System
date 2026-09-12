@@ -252,7 +252,6 @@ For a deeper understanding, explore:
 - `insight_blocks.py` — management insights
 - `excel_export.py` — Excel output generation
 - `OUTPUT/` — generated report examples
-- `SCREENSHOTS/` — visual examples
 
 ---
 
@@ -268,11 +267,3 @@ The repository contains the cleared version intended for portfolio and technical
 
 **Operations Analysis · MIS Reporting · Business Analytics · KPI Design · Performance Analysis · Process Improvement · Python/Pandas · Reporting Automation · Management Reporting · Data Analysis**
 ```
-
-### One important thing
-
-I checked the uploaded code before writing this. The repository structure and reporting claims above are grounded in the actual files: the system has separate weekly MIS, executive reporting, and analytical/reporting modules.  
-
-And yes, **don't paste the actual July/August numbers into the README**. The generated PDFs already demonstrate those outputs, which is much better for an interviewer who wants to actually explore the project.  
-
-**This is the version I would upload.**
