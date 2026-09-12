@@ -1,8 +1,4 @@
-Yes — since **`main.py` already runs the full system and generates the reports**, and the repository already contains the sample outputs, we should **not clutter the README with fake commands/options or repeat the outputs**.
 
-Here is the **final copy-paste README**:
-
-```markdown
 # MAWSIM GOLD
 ## Jewellery Design MIS & Performance Analytics System
 
