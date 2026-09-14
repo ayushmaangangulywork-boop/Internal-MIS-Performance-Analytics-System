@@ -1,5 +1,5 @@
 
-# MAWSIM GOLD
+
 ## Jewellery Design MIS & Performance Analytics System
 
 A Python-based internal MIS and performance analytics system developed to automate recurring jewellery design reporting, KPI analysis, performance tracking, and management reporting.
